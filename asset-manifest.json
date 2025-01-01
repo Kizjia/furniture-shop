@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/furniture-shop/static/css/main.838ae350.css",
+    "main.js": "/furniture-shop/static/js/main.b179d4e3.js",
+    "static/media/white-room.jpg": "/furniture-shop/static/media/white-room.352d837e7f79f2cf0e6a.jpg",
+    "index.html": "/furniture-shop/index.html",
+    "main.838ae350.css.map": "/furniture-shop/static/css/main.838ae350.css.map",
+    "main.b179d4e3.js.map": "/furniture-shop/static/js/main.b179d4e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.838ae350.css",
+    "static/js/main.b179d4e3.js"
+  ]
+}
